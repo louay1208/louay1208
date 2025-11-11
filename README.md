@@ -1,14 +1,9 @@
 <div align="center">
 <!-- Typing Animation Header -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&color=00FF88&center=true&vCenter=true&width=600&lines= Hi+%F0%9F%91%8B%2C+I'm+Louay+Ben+Hamda ; Jr.+AI+Engineer+%7C+LLM+Enthusiast ; Building+the+future+with+RAG+%E2%9A%A1 " alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Louay+Ben+Hamda;Jr.+AI+Engineer+%7C+LLM+Enthusiast;Building+the+future+with+RAG+%E2%9A%A1" alt="Typing Animation" />
 <!-- Tagline -->
 <p align="center">
   <i>Transforming ideas into intelligent systems, one vector at a time</i> 🚀
-</p>
-<!-- Status Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🎯-Available%20for%20AI%20Engineering%20Roles-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
-  <img src="https://komarev.com/ghpvc/?username=louaybenhamda&color=00FF88&style=flat-square" alt="Visitors" />
 </p>
 </div>
 🔥 Current Focus
