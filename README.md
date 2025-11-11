@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Typing Animation Header -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Louay+Ben+Hamda;Jr.+AI+Engineer+%7C+LLM+Enthusiast;Building+the+future+with+RAG+%E2%9A%A1" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&color=00FF88&center=true&vCenter=true&width=600&lines= Hi+%F0%9F%91%8B%2C+I'm+Louay+Ben+Hamda ; Jr.+AI+Engineer+%7C+LLM+Enthusiast ; Building+the+future+with+RAG+%E2%9A%A1 " alt="Typing Animation" />
 <!-- Tagline -->
 <p align="center">
   <i>Transforming ideas into intelligent systems, one vector at a time</i> 🚀
